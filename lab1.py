@@ -169,9 +169,10 @@ my_list1=['red',12,112.12]
 print(my_list1)
 
 
-#list indices
+#list indices (practice)
 
 color_list=['red' ,'blue' , 'green','black']
 print(color_list[0]) #first element
 print(color_list[-1])  #last element
 print(color_list[-4])  #first element
+
