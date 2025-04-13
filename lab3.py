@@ -126,6 +126,7 @@ for i in range(0,7):
 # Question 9-part1
 # Fibonancy series 
 
+
 a=0
 b=1
 while a<50:

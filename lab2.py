@@ -122,7 +122,7 @@ def my_function(child3, child2, child1):
 #Calling that Function
 my_function(child1 = "Emil", child2 = "Tobias", child3 = "Linus")
 
-
+ 
 
 # Create a Class
 # keyword class is used
