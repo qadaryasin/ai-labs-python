@@ -21,7 +21,7 @@ while (count == 0): print("Hello Geek") ;count+=1
 print("List Iteration") 
 l = ["geeks", "for", "geeks"] 
 for i in l: 
-  print(i)
+   print(i)
 
 # 2-Iterating over a tuple (immutable) 
 print("\nTuple Iteration") 
